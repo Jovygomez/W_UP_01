@@ -1,6 +1,6 @@
 ---
-title: "First Knit"
-author: "Your Name"
+title: "FirstKnit"
+author: "Jovy Gomez"
 output: 
   html_document:
     number_sections: true
@@ -17,7 +17,7 @@ Here are just a few questions so I can get to know you and so you can get practi
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-  
+  I went to Panorama High School, and yes I did graduate. I did better in English than I did Math. English is much easier for me. 
 
      
 
@@ -27,14 +27,14 @@ Where did you attend High School, and did you graduate? Compare english class to
 
 ### my answer   
   
-   
+ I am using a mac apple device. I am proud to say that I do know the difference between a mouse and a keyboard. I rate my computer skills as a 6. My home internet works well. 
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
   
-   
+   The name Jovy is what I prefer to be called. Which is currently what's being used. 
  
 
 
@@ -45,7 +45,7 @@ What do you want to achieve in life?  What college subject do you think would be
 
 ### my answer     
   
-   
+   I would like to achieve my career as a Register Nurse. A subject that interest me would be a secondary language or a workshop that may be a hands on class. I would like to continue my education to my fullest potential. It would sound nice being called DR.  
  
 
 
@@ -55,8 +55,7 @@ What do you want to achieve in life?  What college subject do you think would be
 Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
 
 ### my answer     
-  
-   
+  I have traveled to Mexico Jerez, Zacatecas in 2017. This year on November I will be visiting Guatemala to meet my relatives for the first time. I have never been in military. If I were to ever join any branch I would like to join the Marines because they adapt to any obstacle, they work as a team, and there they true warriors.
   
 
 
@@ -68,7 +67,9 @@ What grade do you need to attain in stats to not upset your future plans, What i
  
 
 ### my answer     
+  This is the first time I am taking Math 115. I didn't know the difference between both classes. I will need an A in stats for my future plans. My plan is to learn as best as I can, absorb all information to complete all assignments on time. I am majoring in register nursing and excited to see what my journey has stored for me. 
   
+         
    
  
 
